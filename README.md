@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td width="50%">
-<div align="center"><br>
+<div align="center">
 <a href="https://www.youtube.com/watch?v=jcKoP-FvPsY&ab_channel=JuniorPride"><img src="https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Vite.png?raw=true" width="430" alt="[PASO A PASO] Como crear una App REACT con VITE"></a>
 <p>
 </p>
@@ -43,7 +43,7 @@ Cómo ejecutar el cli de VSCode.</p>
 </td>
 
 <td width="50%">
-<div align="center"><br>
+<div align="center">
 <a href="https://www.youtube.com/watch?v=17eXEVhzjyo&t=29s&ab_channel=JuniorPride"><img src="https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Snippets.png?raw=true" width="430" alt="Cómo programar MÁS RÁPIDO con SNIPPETS"></a>
 <p>
 </p>
