@@ -28,22 +28,17 @@
 <a href="https://www.youtube.com/watch?v=jcKoP-FvPsY&ab_channel=JuniorPride"><img src="https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Vite.png?raw=true" width="430" alt="[PASO A PASO] Como crear una App REACT con VITE"></a>
 <p>
 </p>
-<p>Te mostraré como configurar, implementar y eliminar tus snippets personalizados paso a paso en Visual Studio Code. 
+<p>En este video te mostraré los primeros pasos para un viaje seguro en la instalación y uso de React con Vite desde la terminal de Visual Studio Code. 
 
-Además veremos como implementar fácilmente extensiones de Snippets como:
-
-ES7+ React/Redux/React-Native snippets
-https://marketplace.visualstudio.com/...
+Conoce como implementar esta maravillosa herramienta (Vite) que vino a derrocar a Create React App.
 
 En este video verás:
 
-Cómo instalar extensiones de Snippets.
-Cómo usar extensiones de Snippets.
-Cómo desinstalar extensiones de Snippets.
-Cómo crear un snippet personalizado fácilmente.
-Cómo crear un archivo de snippet personalizado.
-Cómo utilizar un snippet personalizado.
-Cómo eliminar un snippet personalizado en Windows.</p>
+Cómo usar la Terminal de VSCode.
+Cómo ejecutar Vite.
+Cómo crear una app React con Vite.
+Cómo manejarnos entre directorios en la Terminal.
+Cómo ejecutar el cli de VSCode.</p>
 </div>
                                                                                       
 </td>
@@ -82,7 +77,7 @@ Cómo eliminar un snippet personalizado en Windows.</p>
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julioavantt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julioavantt&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
