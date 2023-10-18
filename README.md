@@ -27,18 +27,51 @@
 <a href="https://www.youtube.com/watch?v=17eXEVhzjyo&t=29s&ab_channel=JuniorPride"><img src="https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Snippets.png?raw=true" width="430" alt="Cómo programar MÁS RÁPIDO con SNIPPETS"></a>
 <p>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Te mostraré como configurar, implementar y eliminar tus snippets personalizados paso a paso en Visual Studio Code. 
+
+Además veremos como implementar fácilmente extensiones de Snippets como:
+
+ES7+ React/Redux/React-Native snippets
+https://marketplace.visualstudio.com/...
+
+En este video verás:
+
+Cómo instalar extensiones de Snippets.
+Cómo usar extensiones de Snippets.
+Cómo desinstalar extensiones de Snippets.
+Cómo crear un snippet personalizado fácilmente.
+Cómo crear un archivo de snippet personalizado.
+Cómo utilizar un snippet personalizado.
+Cómo eliminar un snippet personalizado en Windows.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">[PASO A PASO] Como crear una App REACT con VITE</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="[https://i.imgur.com/7uCBigG.jpg](https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Vite.png?raw=true)" width="400" alt="[PASO A PASO] Como crear una App REACT con VITE"></a>
-<p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
+<div align="center">
+<a href="https://www.youtube.com/watch?v=17eXEVhzjyo&t=29s&ab_channel=JuniorPride"><img src="https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Snippets.png?raw=true" width="430" alt="Cómo programar MÁS RÁPIDO con SNIPPETS"></a>
+<p>
+</p>
+<p>Te mostraré como configurar, implementar y eliminar tus snippets personalizados paso a paso en Visual Studio Code. 
+
+Además veremos como implementar fácilmente extensiones de Snippets como:
+
+ES7+ React/Redux/React-Native snippets
+https://marketplace.visualstudio.com/...
+
+En este video verás:
+
+Cómo instalar extensiones de Snippets.
+Cómo usar extensiones de Snippets.
+Cómo desinstalar extensiones de Snippets.
+Cómo crear un snippet personalizado fácilmente.
+Cómo crear un archivo de snippet personalizado.
+Cómo utilizar un snippet personalizado.
+Cómo eliminar un snippet personalizado en Windows.</p>
+</div>
+                                                                                      
+</td>
+</tr>                                                           
 </table>                                                                                 
 </div>                                                                            
 </div>
