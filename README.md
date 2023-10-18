@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" style="position:relative; top: 10" /></h1>
+<h1 align="center">Hola, soy <a href="https://www.youtube.com/@juniorpride">Julio Avantt!</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px" /></h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
