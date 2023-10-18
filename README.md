@@ -23,8 +23,7 @@
 <table>
 <tr>
 <td width="50%">
-<div align="center">
- <br>
+<div align="center"><br>
 <a href="https://www.youtube.com/watch?v=jcKoP-FvPsY&ab_channel=JuniorPride"><img src="https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Vite.png?raw=true" width="430" alt="[PASO A PASO] Como crear una App REACT con VITE"></a>
 <p>
 </p>
