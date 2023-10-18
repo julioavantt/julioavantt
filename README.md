@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.youtube.com/@juniorpride">Julio Avantt!</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px" /></h1>
-  <img src="https://github.com/julioavantt/julioavantt/blob/main/unicorn-with-glasses.png">
+ 
 </div>
+<p align="center">
+ <img src="https://github.com/julioavantt/julioavantt/blob/main/unicorn-with-glasses.png">
+</p>
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
