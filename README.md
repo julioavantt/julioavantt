@@ -7,7 +7,7 @@
 </p>
 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38RutKRyCUHZ866mTNkUAw)(https://youtube.com/@juniorpride?sub_confirmation=1)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38RutKRyCUHZ866mTNkUAw?link=https%3A%2F%2Fyoutube.com%2F%40juniorpride)
 [![GitHub followers](https://img.shields.io/github/followers/julioavantt?style=social)](https://github.com/julioavantt)
 
 ## Sobre mi
