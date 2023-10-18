@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td width="50%">
-<div align="center">
+<div align="center"><br>
 <a href="https://www.youtube.com/watch?v=jcKoP-FvPsY&ab_channel=JuniorPride"><img src="https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Vite.png?raw=true" width="430" alt="[PASO A PASO] Como crear una App REACT con VITE"></a>
 <p>
 </p>
@@ -43,16 +43,11 @@ Cómo ejecutar el cli de VSCode.</p>
 </td>
 
 <td width="50%">
-<div align="center">
+<div align="center"><br>
 <a href="https://www.youtube.com/watch?v=17eXEVhzjyo&t=29s&ab_channel=JuniorPride"><img src="https://github.com/julioavantt/julioavantt/blob/main/VSCode%20-%20Snippets.png?raw=true" width="430" alt="Cómo programar MÁS RÁPIDO con SNIPPETS"></a>
 <p>
 </p>
 <p>Te mostraré como configurar, implementar y eliminar tus snippets personalizados paso a paso en Visual Studio Code. 
-
-Además veremos como implementar fácilmente extensiones de Snippets como:
-
-ES7+ React/Redux/React-Native snippets
-https://marketplace.visualstudio.com/...
 
 En este video verás:
 
